@@ -14,8 +14,8 @@ int v_index=0;
 
 
 ///username and password
-char username[]="cse103";
-char password[]="cse103";
+char username[]="ahiad";
+char password[]="ahiadmahi";
 
 
 
